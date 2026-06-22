@@ -1,2 +1,4 @@
 # fireytech.github.io
-This is just my website :/
+Hi, I guess? I am just following the quickstart guide.
+
+I luv catz
